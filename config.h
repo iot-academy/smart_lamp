@@ -9,7 +9,7 @@
 #define mqtt_pass     "MQTT_PASSWORD"
 
 // MQTT топики
-#define mqtt_topic_base         "summer_eecs/718099ea"
+#define mqtt_topic_base         "summer_eecs/USERID"
 #define mqtt_topic_status       mqtt_topic_base "/status"
 #define mqtt_topic_heartbeat    mqtt_topic_base "/heartbeat"
 #define mqtt_topic_wave         mqtt_topic_base "/wave"
